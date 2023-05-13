@@ -6,6 +6,8 @@ authors = ["Lucas Gabriel Lima <lucasgabriellima@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+PyAudio = "^0.2.11"
+gpiozero = "^1.6.2"
 
 [tool.poetry.dev-dependencies]
 
